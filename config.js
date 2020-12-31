@@ -2,9 +2,9 @@ const config = {
   "admins": [],
   "support": [],
   "prefix": "::",
-  "token": "NzgzNjUxMjcyOTc1OTc0NDIw.X8d2Hw.A1KMGwH3qvaG7pKyM8B9ou1Ye5g",
-  "mongoToken": "mongodb+srv://user:123@fangamecluster.athj7.mongodb.net/FangameCluster?retryWrites=true&w=majority",
-  "regChan": "784130813242507326",
+  "token": "",
+  "mongoToken": "",
+  "regChan": "",
   permLevels: [
       { level: 0,
         name: "Usuario", 
