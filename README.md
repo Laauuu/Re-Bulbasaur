@@ -1,5 +1,7 @@
 # Re-Bulbasaur
 
+*Este proyecto fue realizado en 2 días, contiene errores de diseño y malas prácticas de código.*
+
 ## ¿Cómo instalar y *self-hosting*?
 
 1. Clona este repositorio con `git clone`.
